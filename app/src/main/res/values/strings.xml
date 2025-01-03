@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Daily_Conversor</string>
+
+    <string-array name="mass_conversion_table">
+        <item>Tonelada</item>
+        <item>Quilograma</item>
+        <item>Grama</item>
+        <item>Miligrama</item>
+    </string-array>
+
+    <string-array name="distance_conversion_table">
+        <item>Quilômetro</item>
+        <item>Metro</item>
+        <item>Centímetro</item>
+        <item>Milímetro</item>
+    </string-array>
+
+    <string-array name="capacity_conversion_table">
+        <item>Litro</item>
+        <item>Mililitro</item>
+        <item>Cúbico</item>
+
+
+    </string-array>
+</resources>

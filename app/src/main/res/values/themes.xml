@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Daily_Conversor" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/azul</item>
+        <item name="android:statusBarColor">@color/branco</item>
+    </style>
+
+    <style name="Theme.Daily_Conversor" parent="Base.Theme.Daily_Conversor" />
+</resources>
