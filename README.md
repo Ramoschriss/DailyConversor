@@ -3,9 +3,9 @@
 
 
  ## :camera_flash: Screenshots
-<img src=https://github.com/user-attachments/assets/aa573579-c27f-42d8-823c-2d4f171d51ee />
-<img src=https://github.com/user-attachments/assets/764ffa8a-19fe-45c0-ae4f-c67db8a977ea />
-<img src=https://github.com/user-attachments/assets/12099ba7-e4dd-4b21-97c6-2fbec8b21c22 />
+<img src=https://github.com/user-attachments/assets/aa573579-c27f-42d8-823c-2d4f171d51ee width=200/>
+<img src=https://github.com/user-attachments/assets/764ffa8a-19fe-45c0-ae4f-c67db8a977ea width=200/>
+<img src=https://github.com/user-attachments/assets/12099ba7-e4dd-4b21-97c6-2fbec8b21c22 width=200/>
 
  ## 💻:Tecnologias
 - Activity
